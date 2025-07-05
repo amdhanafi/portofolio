@@ -7,15 +7,15 @@
     "socialMedia": [
         {
             "platform": "LinkedIn",
-            "url": "https://linkedin.com/in/aminuddin-rizal128"
+            "url": "https://linkedin.com/in/ahmad-hanafi-a60808282/"
         },
         {
             "platform": "GitHub",
-            "url": "https://github.com/rizalhalim9"
+            "url": "https://github.com/amdhanafi"
         },
         {
             "platform": "Twitter",
-            "url": "https://twitter.com/redpandalin"
+            "url": "https://twitter.com/amdhanafi_"
         }
     ],
     "cv": {
@@ -24,14 +24,14 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Electornic Engineering", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "PCB Design", "icon": "fas fa-microchip", "level": 70},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
-	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
-        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 80},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 55},
 	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
-	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
-	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+	{"name": "Mobile Legends", "icon": "fas fa-pen", "level": 100},
+	{"name": "Valorant", "icon": "fas fa-language", "level": 100}
     ]
 }
