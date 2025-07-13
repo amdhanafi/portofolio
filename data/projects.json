@@ -1,11 +1,11 @@
 [
     {
-        "title": "Monitoring Energi berbasis lokal web dengan protokol nirkabel",
-        "year": "2022",
-        "fund": "$100,000 NSF Grant",
+        "title": "Local web-based energy monitoring using a wireless protocol",
+        "year": "2025",
+        "fund": "Rp 5.101.000,00",
         "partner": "PT Djarum",
         "role": "Assistant Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
+        "description": "A system that measures electrical energy using a power meter, processes the data with a Raspberry Pi, and presents the energy usage through a local web-based interface.",
         "image": "images/project1.png",
         "link": "https://example.com/solar-water"
     }
