@@ -16,14 +16,15 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Electornic Engineering", "icon": "fas fa-heart-pulse", "level": 90},
-        {"name": "PCB Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "EElectronic Circuit Design
+", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "Microcontroller Programming", "icon": "fas fa-microchip", "level": 70},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
+        {"name": "PCB Desain", "icon": "fas fa-desktop", "level": 90},
 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 80},
-        {"name": "Web Programming", "icon": "fab fa-js", "level": 55},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
-	{"name": "Mobile Legends", "icon": "fas fa-pen", "level": 100},
-	{"name": "Valorant", "icon": "fas fa-language", "level": 100}
+        {"name": "3D Desain", "icon": "fab fa-js", "level": 55},
+	{"name": "Control Systems", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Industrial Automation", "icon": "fas fa-pen", "level": 80},
+	{"name": "MATLAB / Simulink", "icon": "fas fa-language", "level": 75}
     ]
 }
