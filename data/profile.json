@@ -16,8 +16,7 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "EElectronic Circuit Design
-", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "EElectronic Circuit Design", "icon": "fas fa-heart-pulse", "level": 90},
         {"name": "Microcontroller Programming", "icon": "fas fa-microchip", "level": 70},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
         {"name": "PCB Desain", "icon": "fas fa-desktop", "level": 90},
