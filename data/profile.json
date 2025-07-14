@@ -4,12 +4,6 @@
     "profileImage": "images/profile.jpg",
     "email": "amdhnafi@gmail.com",
     "phone": "+62 (831) 624-40946",
-    "socialMedia": [
-        {
-            "platform": "LinkedIn",
-            "url": "https://linkedin.com/in/ahmad-hanafi-a60808282/"
-        },
-    ],
     "cv": {
 			"text": "Download CV",
 			"file": "docs/cv.pdf",
