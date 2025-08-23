@@ -1,23 +1,23 @@
 {
-    "name": "Ahmad Hanafi- Electronic Engineering",
+    "name": "Ahmad Hanafi - Electronic Engineering",
     "description": "An Electronic Engineer specializes in the design, development, and maintenance of electronic systems and components. Their work involves creating circuits, developing embedded systems, and integrating hardware with software to power various applications, ranging from consumer electronics to industrial automation.",
     "profileImage": "images/profile.jpg",
     "email": "amdhnafi@gmail.com",
-    "phone": "+62 (831) 624-40946",
+    "phone": "+6283162440946",
     "cv": {
-			"text": "Download CV",
-			"file": "docs/cv.pdf",
-			"icon": "fas fa-file-pdf"
-	},
+        "text": "Download CV",
+        "file": "docs/cv.pdf",
+        "icon": "fas fa-file-pdf"
+    },
     "skills": [
-        {"name": "EElectronic Circuit Design", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "Electronic Circuit Design", "icon": "fas fa-project-diagram", "level": 90},
         {"name": "Microcontroller Programming", "icon": "fas fa-microchip", "level": 70},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
-        {"name": "PCB Desain", "icon": "fas fa-desktop", "level": 90},
-	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 80},
-        {"name": "3D Desain", "icon": "fab fa-js", "level": 55},
-	{"name": "Control Systems", "icon": "fas fa-list-check", "level": 95},
-	{"name": "Industrial Automation", "icon": "fas fa-pen", "level": 80},
-	{"name": "MATLAB / Simulink", "icon": "fas fa-language", "level": 75}
+        {"name": "PCB Design", "icon": "fas fa-desktop", "level": 90},
+        {"name": "Hardware Programming", "icon": "fas fa-microchip", "level": 80},
+        {"name": "3D Design", "icon": "fas fa-cube", "level": 55},
+        {"name": "Control Systems", "icon": "fas fa-sliders-h", "level": 95},
+        {"name": "Industrial Automation", "icon": "fas fa-industry", "level": 80},
+        {"name": "MATLAB / Simulink", "icon": "fas fa-chart-line", "level": 75}
     ]
 }
