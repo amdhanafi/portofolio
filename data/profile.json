@@ -4,6 +4,20 @@
     "profileImage": "images/profile.jpg",
     "email": "amdhnafi@gmail.com",
     "phone": "+6283162440946",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/aminuddin-rizal128"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/rizalhalim9"
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://twitter.com/redpandalin"
+        }
+    ],
     "cv": {
         "text": "Download CV",
         "file": "docs/cv.pdf",
@@ -21,3 +35,4 @@
         {"name": "MATLAB / Simulink", "icon": "fas fa-chart-line", "level": 75}
     ]
 }
+
