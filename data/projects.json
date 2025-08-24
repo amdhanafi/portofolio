@@ -7,6 +7,17 @@
         "role": "Assistant Engineer",
         "description": "A system that measures electrical energy using a power meter, processes the data with a Raspberry Pi, and presents the energy usage through a local web-based interface.",
         "image": "images/project1.png",
-        "link": "https://example.com/solar-water"
+        "link": ""
+    }
+    {
+        "title": "Line Follower Robot",
+        "year": "2024",
+        "fund": "Rp 500.000,00",
+        "partner": "Politeknik Negeri Semarng",
+        "role": "Assistant Engineer",
+        "description": "Designed and implemented an autonomous line-following robot using infrared sensors and Arduino microcontroller. The system was programmed to detect and follow a predefined path accurately, with real-time motor control based on sensor feedback.",
+        "image": "images/project2.png",
+        "link": ""
     }
     ]
+
