@@ -16,8 +16,9 @@
         "partner": "Politeknik Negeri Semarng",
         "role": "Assistant Engineer",
         "description": "Designed and implemented an autonomous line-following robot using infrared sensors and Arduino microcontroller. The system was programmed to detect and follow a predefined path accurately, with real-time motor control based on sensor feedback.",
-        "image": "images/project2.png",
+        "image": "images/project2.jpg",
         "link": ""
     }
     ]
+
 
