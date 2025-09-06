@@ -2,11 +2,19 @@
     {
         "title": "Local web-based energy monitoring using a wireless protocol",
         "year": "2025",
-        "fund": "Rp 5.101.000,00",
+        "fund": "Rp 5.000.000,00",
         "partner": "PT Djarum",
-        "role": "Assistant Engineer",
         "description": "A system that measures electrical energy using a power meter, processes the data with a Raspberry Pi, and presents the energy usage through a local web-based interface.",
         "image": "images/project1.png",
+        "link": ""
+    },
+    {
+        "title": "Chicken Egg Incubator Using AC Lamp and PID Control Prototype",
+        "year": "2025",
+        "fund": "Rp 150.000,00",
+        "partner": "Politeknik Negeri Semarng",
+        "description": "A monitoring and control system utilizing the DS18B20 temperature sensor to maintain a stable chicken coop environment, ensuring optimal growth, health, and productivity of the chickens through consistent temperature regulation.",
+        "image": "images/project4.jpg",
         "link": ""
     },
     {
@@ -14,12 +22,21 @@
         "year": "2024",
         "fund": "Rp 500.000,00",
         "partner": "Politeknik Negeri Semarng",
-        "role": "Assistant Engineer",
-        "description": "Designed and implemented an autonomous line-following robot using infrared sensors and Arduino microcontroller. The system was programmed to detect and follow a predefined path accurately, with real-time motor control based on sensor feedback.",
+        "description": "Designed and implemented an autonomous line-following robot using infrared sensors and ATMega32 microcontroller. The system was programmed to detect and follow a predefined path accurately, with real-time motor control based on sensor feedback.",
         "image": "images/project2.jpg",
+        "link": ""
+    },
+        {
+        "title": "Automatic Door and Welcome Bell Prototype",
+        "year": "2024",
+        "fund": "Rp 200.000,00",
+        "partner": "Politeknik Negeri Semarng",
+        "description": "Designed and implemented a door system equipped with infrared and ultrasonic sensors to accurately detect the presence of people, triggering both the automatic door mechanism and a greeting bell to enhance convenience and user experience.",
+        "image": "images/project3.jpg",
         "link": ""
     }
     ]
+
 
 
 
