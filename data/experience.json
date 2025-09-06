@@ -2,7 +2,7 @@
     {
         "company": "PT DJARUM",
 		"logo":"images/ptdjarum.png",
-        "position": "Maintenance Operation Secondary Gribig",
+        "position": "Maintenance Operation Secondary",
         "year": "2024",
     	"description": [
             "Assist in assembling and repairing industrial PCs",
@@ -13,4 +13,5 @@
         ]
 	}
 ]
+
 
