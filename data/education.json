@@ -4,13 +4,14 @@
         "logo": "images/polines-logo.png",
         "major": "Associate Degree in Electronics Engineering",
         "year": "2022 - 2025",
-        "gpa": "3.38 of 4.0",
         "description": [
+            "GPA 3.38 of 4.0",
             "Digital Electronics, Microcontroller Programming, and Embedded Systems",
             "Electrical Circuits, Power Electronics, and Control Systems",
             "Industrial Automation and PLC Programming",
             "Internet of Things (IoT) and Wireless Communication",
-            "Energy Monitoring and Instrumentation Systems"
+            "Energy Monitoring and Instrumentation Systems."
         ]
     }
 ]
+
