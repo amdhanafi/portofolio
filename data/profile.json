@@ -1,6 +1,6 @@
 {
     "name": "Ahmad Hanafi - Electronic Engineering",
-    "description": "An Electronic Engineer specializes in the design, development, and maintenance of electronic systems and components. Their work involves creating circuits, developing embedded systems, and integrating hardware with software to power various applications, ranging from consumer electronics to industrial automation.",
+    "description": "Diploma graduate in Electronics Engineering from Politeknik Negeri Semarang with a strong interest in instrumentation, control, and industrial automation. Skilled in designing and implementing microcontroller-based systems, sensors, and PLC programming. Familiar with both hardware and software aspects of electronics, with knowledge in control systems, data communication, and IoT-based energy monitoring.",
     "profileImage": "images/profile.jpg",
     "email": "amdhnafi@gmail.com",
     "phone": "+6283162440946",
@@ -35,5 +35,6 @@
         {"name": "MATLAB / Simulink", "icon": "fas fa-chart-line", "level": 75}
     ]
 }
+
 
 
