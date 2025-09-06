@@ -14,7 +14,7 @@
         "fund": "Rp 150.000,00",
         "partner": "Politeknik Negeri Semarng",
         "description": "A monitoring and control system utilizing the DS18B20 temperature sensor to maintain a stable chicken coop environment, ensuring optimal growth, health, and productivity of the chickens through consistent temperature regulation.",
-        "image": "images/project4.jpg",
+        "image": "images/project4.png",
         "link": ""
     },
     {
@@ -32,10 +32,11 @@
         "fund": "Rp 200.000,00",
         "partner": "Politeknik Negeri Semarng",
         "description": "Designed and implemented a door system equipped with infrared and ultrasonic sensors to accurately detect the presence of people, triggering both the automatic door mechanism and a greeting bell to enhance convenience and user experience.",
-        "image": "images/project3.jpg",
+        "image": "images/project3.png",
         "link": ""
     }
     ]
+
 
 
 
