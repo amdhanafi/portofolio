@@ -6,7 +6,7 @@
         "partner": "PT Djarum",
         "description": "A system that measures electrical energy using a power meter, processes the data with a Raspberry Pi, and presents the energy usage through a local web-based interface.",
         "image": "images/project1.png",
-        "link": ""
+        "link": "https://drive.google.com/drive/folders/15uAcITJEly0tq98wVcUuCwNXUqiKk37b?usp=sharing"
     },
     {
         "title": "Chicken Egg Incubator Using AC Lamp and PID Control Prototype",
@@ -36,6 +36,7 @@
         "link": ""
     }
     ]
+
 
 
 
