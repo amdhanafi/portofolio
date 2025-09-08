@@ -15,7 +15,7 @@
         "partner": "Politeknik Negeri Semarng",
         "description": "A monitoring and control system utilizing the DS18B20 temperature sensor to maintain a stable chicken coop environment, ensuring optimal growth, health, and productivity of the chickens through consistent temperature regulation.",
         "image": "images/project4.png",
-        "link": ""
+        "link": "https://drive.google.com/drive/folders/1yZ3HUfo4hwXHOPtmR3bkhXhwybeKwJfK?usp=sharing"
     },
     {
         "title": "Line Follower Robot",
@@ -36,6 +36,7 @@
         "link": ""
     }
     ]
+
 
 
 
