@@ -2,7 +2,17 @@
     {
         "company": "PT DJARUM",
         "logo": "images/ptdjarum.png",
-        "position": "Maintenance Operation Secondary",
+        "position": "Intern - Maintenance Operation Secondary",
+        "year": "2024",
+        "description": [
+            "Assist in assembling and repairing industrial PCs",
+            "Assist in repairing electronic devices",
+            "Assist in repairing production machines",
+            "Assist in cable installation on production machines",
+            
+        "company": "PT DJARUM",
+        "logo": "images/ptdjarum.png",
+        "position": "Intern - Maintenance Operation Secondary",
         "year": "2024",
         "description": [
             "Assist in assembling and repairing industrial PCs",
@@ -14,6 +24,7 @@
         "photo": "images/SerMagang.jpg"
     }
 ]
+
 
 
 
