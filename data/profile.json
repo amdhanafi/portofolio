@@ -1,5 +1,5 @@
 {
-    "name": "Ahmad Hanafi - Electrical Engineering | Industrial Electrical & Automation",
+    "name": "Ahmad Hanafi - Electrical Engineering",
     "description": "Electrical Engineering graduate from Politeknik Negeri Semarang with a focus on industrial electrical systems and automation. Possess a fundamental understanding of industrial power distribution, electrical equipment, and electrical systems used in plant environments.\n\nFamiliar with industrial control and automation systems such as PLC and HMI, and have a systematic working approach that prioritizes safety, system reliability, and compliance with industrial procedures in process industries.",
     "profileImage": "images/profile.jpg",
     "email": "amdhnafi@gmail.com",
@@ -24,17 +24,16 @@
         "icon": "fas fa-file-pdf"
     },
     "skills": [
-        {"name": "Electronic Circuit Design", "icon": "fas fa-project-diagram", "level": 90},
-        {"name": "Microcontroller Programming", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Industrial Electrical", "icon": "fas fa-project-diagram", "level": 90},
+        {"name": "PLC & HMI Programming", "icon": "fas fa-microchip", "level": 70},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
-        {"name": "PCB Design", "icon": "fas fa-desktop", "level": 90},
-        {"name": "Hardware Programming", "icon": "fas fa-microchip", "level": 80},
-        {"name": "3D Design", "icon": "fas fa-cube", "level": 55},
+        {"name": "Matlab / Simulink", "icon": "fas fa-desktop", "level": 90},
         {"name": "Control Systems", "icon": "fas fa-sliders-h", "level": 95},
         {"name": "Industrial Automation", "icon": "fas fa-industry", "level": 80},
-        {"name": "MATLAB / Simulink", "icon": "fas fa-chart-line", "level": 75}
+        {"name": "Electronics & PCB", "icon": "fas fa-desktop", "level": 90},
     ]
 }
+
 
 
 
