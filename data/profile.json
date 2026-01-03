@@ -26,13 +26,14 @@
     "skills": [
         {"name": "Industrial Electrical", "icon": "fas fa-project-diagram", "level": 90},
         {"name": "PLC & HMI Programming", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Control Systems", "icon": "fas fa-sliders-h", "level": 95}
+        {"name": "Industrial Automation", "icon": "fas fa-industry", "level": 80},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
         {"name": "Matlab / Simulink", "icon": "fas fa-desktop", "level": 90},
-        {"name": "Control Systems", "icon": "fas fa-sliders-h", "level": 95},
-        {"name": "Industrial Automation", "icon": "fas fa-industry", "level": 80},
         {"name": "Electronics & PCB", "icon": "fas fa-desktop", "level": 90}
     ]
 }
+
 
 
 
