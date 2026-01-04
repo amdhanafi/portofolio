@@ -1,5 +1,13 @@
 [
-    {       
+    {    
+        
+        "company": "PT Handal Yasindo Sejahtera",
+        "logo": "images/ptdjarum.png",
+        "position": "Automation Enginner",
+        "year": "2025 - now",
+        "description": ["iyaa"
+        ],
+        
         "company": "PT DJARUM",
         "logo": "images/ptdjarum.png",
         "position": "Intern - Maintenance Operation Secondary",
@@ -14,6 +22,7 @@
         "photo": "images/SerMagang.jpg"
     }
 ]
+
 
 
 
