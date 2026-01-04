@@ -1,30 +1,26 @@
 [
-    {    
-        
-        "company": "PT Handal Yasindo Sejahtera",
-        "logo": "images/ptdjarum.png",
-        "position": "Automation Enginner",
-        "year": "2025 - now",
-        "description": ["iyaa"
-        ],
-        
-        "company": "PT DJARUM",
-        "logo": "images/ptdjarum.png",
-        "position": "Intern - Maintenance Operation Secondary",
-        "year": "2024",
-        "description": [
-            "Assist in assembling and repairing industrial PCs",
-            "Assist in repairing electronic devices",
-            "Assist in repairing production machines",
-            "Assist in cable installation on production machines",
-            "Make reports."
-        ],
-        "photo": "images/SerMagang.jpg"
-    }
+  {
+    "company": "PT Handal Yasindo Sejahtera",
+    "logo": "images/ptdjarum.png",
+    "position": "Automation Engineer",
+    "year": "2025 - Now",
+    "description": [
+      "Develop PLC and HMI programs",
+      "Perform system troubleshooting and debugging"
+    ]
+  },
+  {
+    "company": "PT DJARUM",
+    "logo": "images/ptdjarum.png",
+    "position": "Intern - Maintenance Operation Secondary",
+    "year": "2024",
+    "description": [
+      "Assist in assembling and repairing industrial PCs",
+      "Assist in repairing electronic devices",
+      "Assist in repairing production machines",
+      "Assist in cable installation on production machines",
+      "Prepare maintenance reports"
+    ],
+    "photo": "images/SerMagang.jpg"
+  }
 ]
-
-
-
-
-
-
