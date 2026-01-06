@@ -191,6 +191,22 @@ document.addEventListener('DOMContentLoaded', function() {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 entry.target.classList.add('animate');
+
+                // Reveal project cards with a small stagger
+                const projectCards = entry.target.querySelectorAll('.project-card');
+                if (projectCards.length) {
+                    projectCards.forEach((card, i) => {
+                        setTimeout(() => card.classList.add('show'), i * 80);
+                    });
+                }
+
+                // Reveal skill items if present
+                const skillItems = entry.target.querySelectorAll('.skills-grid .skill-item');
+                if (skillItems.length) {
+                    skillItems.forEach((it, i) => {
+                        setTimeout(() => it.classList.add('show'), i * 50);
+                    });
+                }
             }
         });
     }, observerOptions);

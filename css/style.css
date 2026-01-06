@@ -180,84 +180,125 @@ header {
 
     opacity: 0;
 
-    transition: opacity 0.3s ease;
 
-}
+    /* Projects Section */
 
+    .projects-grid {
 
+        display: grid;
 
-.sidebar-nav:hover .nav-text {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 
-    display: inline;
+        gap: 1.5rem;
 
-    opacity: 1;
-
-}
-
+    }
 
 
-/* Tooltip */
+    .project-card {
 
-.sidebar-nav a::after {
+        background-color: white;
 
-    content: attr(data-tooltip);
+        border-radius: var(--border-radius);
 
-    position: absolute;
+        overflow: hidden;
 
-    left: 100%;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 
-    top: 50%;
+        transition: transform 0.3s, opacity 0.45s ease, transform 0.45s ease;
+        opacity: 0;
+        transform: translateY(12px);
 
-    transform: translateY(-50%);
-
-    background: var(--secondary-color);
-
-    color: white;
-
-    padding: 0.5rem 1rem;
-
-    border-radius: 4px;
-
-    font-size: 0.9rem;
-
-    white-space: nowrap;
-
-    opacity: 0;
-
-    pointer-events: none;
-
-    transition: all 0.3s ease;
-
-    margin-left: 1rem;
-
-}
+    }
 
 
+    .project-card:hover {
 
-.sidebar-nav a:hover::after {
+        transform: translateY(-5px);
 
-    opacity: 1;
-
-    margin-left: 0.5rem;
-
-}
+    }
 
 
+    .project-image {
 
-/* Active section highlight */
+        height: 200px;
 
-.sidebar-nav a.active {
+        overflow: hidden;
 
-    color: var(--primary-color);
-
-    background: rgba(255,255,255,0.05);
-
-}
+    }
 
 
+    .project-image img {
 
-.sidebar-nav a.active i {
+        width: 100%;
 
+        height: 100%;
+
+        object-fit: cover;
+
+        transition: transform 0.3s;
+
+    }
+
+
+    .project-card:hover .project-image img {
+
+        transform: scale(1.05);
+
+    }
+
+
+    .project-info {
+
+        padding: 1.5rem;
+
+    }
+
+
+    .project-info h3 {
+
+        color: var(--primary-color);
+
+        margin-bottom: 0.5rem;
+
+    }
+
+    /* Show state for reveal animations */
+    .project-card.show {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    /* Section reveal animation (sections start invisible via JS) */
+    .section.animate {
+        opacity: 1 !important;
+        transform: translateY(0) !important;
+    }
+
+    /* small image zoom on hover for profile */
+    .profile-image:hover {
+        transform: scale(1.03);
+        transition: transform 0.25s ease;
+    }
+
+    /* skills appear with slight fade */
+    .skills-grid .skill-item {
+        opacity: 0;
+        transform: translateY(8px);
+        transition: all 0.35s ease;
+    }
+    .skills-grid .skill-item.show {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    /* subtle hover for project links */
+    .project-link {
+        transition: transform 0.18s ease, color 0.18s ease;
+    }
+    .project-link:hover {
+        transform: translateY(-3px);
+        color: var(--secondary-color);
+    }
     transform: scale(1.1);
 
 }
@@ -266,7 +307,7 @@ header {
 
 .section {
 
-    padding: 4rem 0;
+    padding: 2.5rem 0;
 
     border-bottom: 1px solid #eee;
 
