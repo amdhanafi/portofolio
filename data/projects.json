@@ -16,13 +16,6 @@
         "link": "https://drive.google.com/drive/folders/15uAcITJEly0tq98wVcUuCwNXUqiKk37b?usp=sharing"
     },
     {
-        "title": "Chicken Egg Incubator Using AC Lamp and PID Control Prototype",
-        "year": "2025",
-        "description": "A monitoring and control system utilizing the DS18B20 temperature sensor to maintain a stable chicken coop environment, ensuring optimal growth, health, and productivity of the chickens through consistent temperature regulation.",
-        "image": "images/project4.png",
-        "link": "https://drive.google.com/drive/folders/1yZ3HUfo4hwXHOPtmR3bkhXhwybeKwJfK?usp=sharing"
-    },
-    {
         "title": "Line Follower Robot",
         "year": "2024",
         "description": "Designed and implemented an autonomous line-following robot using infrared sensors and ATMega32 microcontroller. The system was programmed to detect and follow a predefined path accurately, with real-time motor control based on sensor feedback.",
